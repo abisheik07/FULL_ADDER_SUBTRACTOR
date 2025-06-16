@@ -1,4 +1,9 @@
 # FULL_ADDER_SUBTRACTOR
+Name: Abisheik Raj J 
+
+reg no:212224230006
+
+Date:25/03/2025
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
